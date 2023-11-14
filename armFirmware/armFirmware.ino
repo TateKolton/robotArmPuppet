@@ -62,7 +62,7 @@ void recieveCommand() {
         recieved = Serial.read();
         inData += String(recieved);
       }
-      parseMessage(function, inData);
+      parseMessage(inData);
     }
   }
 }
@@ -72,7 +72,7 @@ void parseMessage(String inMsg) {
 
   // choose which function to run
   if (function == "MT") {
-    commandArmPose();
+    commandArmPose(inMsg);
   }
 
   else if(function == "EE"){
@@ -85,6 +85,7 @@ void parseMessage(String inMsg) {
 
   else if (function == "HM") {
     homeArm();
+    return;
   }
 
   // Send arm angles and gripper force to hardware driver
@@ -108,11 +109,10 @@ void commandArmPose(String inMsg) {
   cmdArmAngle[3] = inMsg.substring(msgIdxJ4 + 1, msgIdxJ5).toInt();
   cmdArmAngle[4] = inMsg.substring(msgIdxJ5 + 1, msgIdxJ6).toInt();
   cmdArmAngle[5] = inMsg.substring(msgIdxJ6 + 1, msgIdxJ7).toInt();
-  cmdEEPct = inMsg.substring(msgIdxJ7 + 1).toInt;
+  cmdEEPct = inMsg.substring(msgIdxJ7 + 1).toInt();
 
   angleToSteps();
   cmdArm();
-  cmdEndEff();
 }
 
 // This code will execute a sequence of poses specified via incoming serial message inMsg. This function blocks readings from puppet controller until sequence is completed. 
@@ -120,9 +120,12 @@ void executePoseSequence(String inMsg) {
 
 }
 
-// Handles homing of end effector
-void homeEndEffector(String inMsg) {
+void endEffectorCommands(String inMsg) {
+  
+}
 
+// Handles homing of end effector
+void homeEndEffector() {
 }
 
 // Send arm angles back to PC
@@ -133,9 +136,9 @@ void sendArmFeedback() {
     garbage = Serial.read();
   }
   
-  String outMsg = String("JP") + String("A") + String(steppers[0].currentPosition()) + String("B") + String(steppers[1].currentPosition()) + String("C") + String(steppers[2].currentPosition())
+  String outMsg = String("R") + String("A") + String(steppers[0].currentPosition()) + String("B") + String(steppers[1].currentPosition()) + String("C") + String(steppers[2].currentPosition())
                   + String("D") + String(steppers[3].currentPosition()) + String("E") + String(steppers[4].currentPosition()) + String("F") + String(steppers[5].currentPosition()) + String("G") + String(endEff.currentPosition()) + String("Z");
-  Serial.print(outMsg);
+  Serial.println(outMsg);
 }
 
 // execute steppers to target positions
@@ -159,18 +162,16 @@ void setJointSpeed() {
 // converts angles to steps for motors
 void angleToSteps() {
   for(int i=0; i<NUM_AXES; i++){
-    cmdArmSteps[i] = cmdArmAngle[i]*axisDir[i]*ppr[i]*red[i]/360.0;
+    cmdArmSteps[i] = (cmdArmAngle[i]/100.0)*axisDir[i]*ppr[i]*red[i]/360.0;
 
-    if(cmdArmSteps[i] > max_steps[i]) {
-      cmdArmSteps[i] = max_steps[i];
+    if(cmdArmSteps[i] > max_steps[i]*axisDir[i]) {
+      cmdArmSteps[i] = max_steps[i]*axisDir[i];
     }
 
-    else if(cmdArmSteps[i] < min_steps[i]) {
-      cmdArmSteps[i] = min_steps[i];
+    else if(cmdArmSteps[i] < min_steps[i]*axisDir[i]) {
+      cmdArmSteps[i] = min_steps[i]*axisDir[i];
     }
   }
-
-  cmdEESteps = 
 }
 
 // sets target positions (in steps) for motors
@@ -178,15 +179,23 @@ void cmdArm() {
   for(int i=0; i<NUM_AXES; i++) {
     steppers[i].moveTo(cmdArmSteps[i]);
   }
+  endEff.moveTo(0);
 }
 
 //****// ARM CALIBRATION FUNCTIONS//****//
 
 void homeArm() {  // main function for full arm homing
 
-  initializeHomingMotion();
-  homeAxes();
+  //initializeHomingMotion();
+  //homeAxes();
   initializeMotion();
+  delay(2000);
+  char garbage;
+  while (Serial.available() > 0) {
+    garbage = Serial.read();
+  }
+
+  Serial.println("H");
 }
 
 // Runs through and checks if each axis has reached its limit switch, then runs it to specified home position

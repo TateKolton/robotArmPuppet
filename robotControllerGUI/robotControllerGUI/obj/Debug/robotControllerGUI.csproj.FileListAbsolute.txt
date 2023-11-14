@@ -1,0 +1,11 @@
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb

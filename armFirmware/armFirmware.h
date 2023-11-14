@@ -52,10 +52,10 @@ int cmdEESteps;
 int endEffMax = 1000;
 
 // Motor speeds and accelerations
-const int maxSpeed[6] = {1000, 1800, 2000, 2000, 3000, 2000};
-const int maxAccel[6] = {2000, 3000, 3000, 3300, 4000, 3000};
-const int homeSpeed[6] = {1500, 2000, 2000, 2500, 1500, 1000}; 
-const int homeAccel[6] = {1500, 2000, 2000, 2500, 1500, 1000}; 
+const int maxSpeed[6] = {1000, 1600, 2000, 2000, 2000, 2000};
+const int maxAccel[6] = {2000, 3000, 3000, 3300, 3000, 3000};
+const int homeSpeed[6] = {1200, 1000, 1000, 2000, 1000, 800}; 
+const int homeAccel[6] = {1200, 1000, 1000, 2000, 1000, 800}; 
 
 // Stepper motor objects for AccelStepper library
 AccelStepper steppers[6];
@@ -107,7 +107,7 @@ void setJointSpeed();
 void sendArmFeedback();
 
 // Sets target position for all motors
-int cmdArm();
+void cmdArm();
 
 // Main function for homing the entire arm.
 void homeArm();
@@ -128,7 +128,7 @@ void runSteppers();
 void waitForHome();
 
 // Move arm to controller specified pose
-void commandArmPose();
+void commandArmPose(String inMsg);
 
 // Convert axes angles to motor steps
 void angleToSteps();
@@ -136,5 +136,11 @@ void angleToSteps();
 // This code will execute a sequence of poses specified via incoming serial message inMsg. This function blocks readings from puppet controller until sequence is completed. 
 void executePoseSequence(String inMsg);
 
+// Function to command end effector
+void endEffectorCommands(String inMsg);
+
 // Homes end effector
-void homeEndEffector(String inMsg);
+void homeEndEffector();
+
+// Function to move end effector
+void cmdEndEff();

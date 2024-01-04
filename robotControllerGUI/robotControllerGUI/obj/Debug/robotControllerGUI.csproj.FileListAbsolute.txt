@@ -9,3 +9,181 @@ C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Projec
 C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
 C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
 C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\user\OneDrive\Documents\1_Other Documents\7_Sixth-Year\Mech 423\Project\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppet\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv2\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\Software\Software\robotArmPuppetv3\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv4\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv4\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv6\robotArmPuppetv5\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv11\robotArmPuppetv9\robotArmPuppetv8\robotArmPuppetv7\robotArmPuppetv7\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetv13\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\parsa\OneDrive - UBC\Desktop\UBC\Year 5\Mech 423\Final Project\robotArmPuppetv14\robotArmPuppetv14\robotArmPuppetv12-NEW\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe.config
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\bin\Debug\robotControllerGUI.pdb
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.AssemblyReference.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Form1.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.Properties.Resources.resources
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.GenerateResource.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.csproj.CoreCompileInputs.cache
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.exe
+C:\Users\tatek\OneDrive\Desktop\robotArmPuppetV17\robotArmPuppetv7\robotControllerGUI\robotControllerGUI\obj\Debug\robotControllerGUI.pdb
